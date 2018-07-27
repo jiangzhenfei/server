@@ -9,3 +9,6 @@
 
 ### 3.启动
 #### 执行node server.js，浏览器打开localhost:8000即可看到页面以及前端ajax数据
+```bash
+node server.js
+```
